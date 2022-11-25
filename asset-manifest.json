@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GameOver/static/css/main.bbc5c2a1.css",
+    "main.css": "/GameOver/static/css/main.8ea9c69f.css",
     "main.js": "/GameOver/static/js/main.126ca793.js",
     "static/js/496.0634e266.chunk.js": "/GameOver/static/js/496.0634e266.chunk.js",
     "static/media/fa-solid-900.ttf": "/GameOver/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/GameOver/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/GameOver/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/GameOver/index.html",
-    "main.bbc5c2a1.css.map": "/GameOver/static/css/main.bbc5c2a1.css.map",
+    "main.8ea9c69f.css.map": "/GameOver/static/css/main.8ea9c69f.css.map",
     "main.126ca793.js.map": "/GameOver/static/js/main.126ca793.js.map",
     "496.0634e266.chunk.js.map": "/GameOver/static/js/496.0634e266.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbc5c2a1.css",
+    "static/css/main.8ea9c69f.css",
     "static/js/main.126ca793.js"
   ]
 }
