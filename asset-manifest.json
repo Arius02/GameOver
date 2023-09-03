@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GameOver/static/css/main.aa4c3785.css",
-    "main.js": "/GameOver/static/js/main.760692fe.js",
+    "main.js": "/GameOver/static/js/main.5140bab3.js",
     "static/js/496.0634e266.chunk.js": "/GameOver/static/js/496.0634e266.chunk.js",
     "static/media/fa-solid-900.ttf": "/GameOver/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/shadow.png": "/GameOver/static/media/shadow.0fddd1fbe0a5e0a0af93.png",
@@ -16,11 +16,11 @@
     "static/media/fa-v4compatibility.woff2": "/GameOver/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/GameOver/index.html",
     "main.aa4c3785.css.map": "/GameOver/static/css/main.aa4c3785.css.map",
-    "main.760692fe.js.map": "/GameOver/static/js/main.760692fe.js.map",
+    "main.5140bab3.js.map": "/GameOver/static/js/main.5140bab3.js.map",
     "496.0634e266.chunk.js.map": "/GameOver/static/js/496.0634e266.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa4c3785.css",
-    "static/js/main.760692fe.js"
+    "static/js/main.5140bab3.js"
   ]
 }
